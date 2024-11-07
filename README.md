@@ -27,7 +27,7 @@
   <li>Abre el proyecto en Android Studio.</li>
   <li>Obtén tu API key de Gemini siguiendo el enlace: <a href="https://ai.google.dev/gemini-api/docs/api-key?hl=es-419" target="_blank">Obtener clave de API de Gemini</a>.</li>
   <li>Guarda la clave en el archivo <code>local.properties</code> del proyecto añadiendo la siguiente línea:
-    <pre><code>apikey="TU_API_KEY"</code></pre>
+    <pre><code>apikey="CREAR_KEY"</code></pre>
   </li>
   <li>Ejecuta la aplicación en un emulador o dispositivo físico.</li>
 </ol>
