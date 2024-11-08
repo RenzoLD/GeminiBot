@@ -22,7 +22,7 @@
 
 <ol>
   <li>Clona el repositorio:
-    <pre><code>git clone https://github.com/tu-usuario/geminibot.git</code></pre>
+    <pre><code>git clone https://github.com/RenzoLD/geminibot.git</code></pre>
   </li>
   <li>Abre el proyecto en Android Studio.</li>
   <li>Obtén tu API key de Gemini siguiendo el enlace: <a href="https://ai.google.dev/gemini-api/docs/api-key?hl=es-419" target="_blank">Obtener clave de API de Gemini</a>.</li>
